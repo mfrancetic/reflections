@@ -13,7 +13,7 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
-
+- Branches would be helpful when we create two different versions of the application (for example, with a different language, or we experiment with a big change, while still developing the original application). Branches are useful here because can simultanously develop different versions of the applications.
 
 
 How do the diagrams help you visualize the branch structure?
