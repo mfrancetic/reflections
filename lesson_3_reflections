@@ -4,3 +4,6 @@ or when I am working on different devices.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 - I would prefer to always pull changes manually, rather than having Git automatically stay up-to-date with my remote repository, because that way I can choose which changes I want to commit, I can organise commits in logical changes and have better control over the remote repository in general.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+- Branches happen on a local repository, even though they can be pulled and pushed to the remote repository, a clone takes an existing repository and makes one just like it (either locally, or from GitHub to the local machine) and a fork clones a repository from GitHub to GitHub. When I don't need to share my work and I am just developing an app on my own, I would just use branches, when I would like to make changes to my own repository on GitHub, I would make a clone to my local machine, and when I would like to make changes on someone else's repository on GitHub, I would fork the repository to my GitHub account.
