@@ -13,3 +13,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 - Without using Git or GithUb I would collaborate using a different way of version control, for example by saving the project on the company's server, so everyone can reach it, and provide comments per E-Mail or directly. It would be easier in the terms of time saving (since I wouldn't have to do commits, push/pull the project), but on the other hand it would be harder to have an overview of what has changed in the project over time, as well as reaching previous versions and merging files.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+- I would want to make changes in a separate branch rather than directly in master, when I am experimenting with a specific feature, but would still like to keep working on the master, or if I would like to create a different version of the project (for example, an "easy mode" of the game), while keeping both versions. The benefit of making changes in a separate branch is the possibility of developing two versions of the same project at the same time. 
